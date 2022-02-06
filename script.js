@@ -58,4 +58,4 @@ setInterval(() => {
     time[1]++;
     timeTick = false;
   }
-}, 1000);
+}, 10);
